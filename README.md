@@ -6,4 +6,4 @@
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Fun Fact: I enjoy exploring new technologies and finding creative solutions to problems.
 -  ♦️ Skills: Basics programming knowledge in C,PYTHON,JAVA
--  🤝 Area of interest :DATA SCIENCE AND WEB DEVELOPMENT.
+-  🤝 Area of interest :LOW CODE APPLICATION DEVELOPMENT,prompting AND DATA ANALYTICS.
