@@ -1,9 +1,9 @@
 - 👋 Hi, I’m DURAIARASU S 
-- 👀 I’m interested in PYTHON & JAVA 
-- 🌱 I’m currently learning PEGA SYSTEM ARCHITECT 
+- 👀 I’m interested in LOW CODE &POWER BI
+- 🌱 I’m CERTIFIED PEGA SYSTEM ARCHITECT 
 - 💞️ I’m looking to collaborate on LOWCODE APPLICATION DEVELOPMENT AND ENDLESS SOLUTION IN PYTHON 
 - 📫 How to reach me by email DURAIARASUSIVARASU@GMAIL.COM
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: Fun Fact: I enjoy exploring new technologies and finding creative solutions to problems.
--  ♦️ Skills: Basics programming knowledge in C,PYTHON,JAVA
+- ⚡ Fun fact: I enjoy exploring new technologies and finding creative solutions to problems.
+-  ♦️ Skills: Basics programming knowledge in PYTHON,JAVA
 -  🤝 Area of interest :LOW CODE APPLICATION DEVELOPMENT,prompting AND DATA ANALYTICS.
